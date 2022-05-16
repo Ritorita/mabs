@@ -1,0 +1,12 @@
+.about{
+    margin-top: 450px;
+    border-radius:7px;
+    background: grey;
+    width: 700px;
+    margin-left: 300px;
+    padding: 12px;
+}
+body{
+    background: black;
+}
+
